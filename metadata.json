@@ -1,0 +1,8 @@
+{
+  "name": "Apex Global Immigration",
+  "description": "An enterprise-grade, high-security digital platform for visa and immigration consultancy, providing authority, trust, and global-scale advisory services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
